@@ -38,5 +38,5 @@ description check the README in the respective folders.
 
 | Folder                        | Data available | Format                | Difficulty to use |
 |-------------------------------|----------------|-----------------------|-------------------|
-| Raw Measurement Logs          | All            | Compressed text files | medium            |
+| Raw Measurement Logs          | All            | Compressed text files | medium to hard    |
 | Preprocessed Measurement Data | Subset         | HDF5 Store            | low               |
