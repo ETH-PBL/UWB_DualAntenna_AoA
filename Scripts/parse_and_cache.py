@@ -95,7 +95,7 @@ class CacheV4:
         else:
             empty_cir = [None]*(self.cir_sts_slice[0]+self.cir_sts_slice[1])
 
-        # Compute power levels, c.f. DW3000 user manual page 48
+        # Compute power levels, c.f. DW3000 user manual section 4.7
         try:
             C = frame.cir_analysis_ip.power
             N = frame.cir_analysis_ip.accum_count
@@ -160,7 +160,7 @@ class CacheV4a:
         if not has_cir:
             empty_cir = [None]*self.cir_sts_len
 
-        # Compute power levels, c.f. DW3000 user manual page 48
+        # Compute power levels, c.f. DW3000 user manual section 4.7
         C = frame.cir_analysis_ip.power
         N = frame.cir_analysis_ip.accum_count
         D = frame.toa_data.dgc_decision
@@ -230,7 +230,7 @@ class CacheV5:
         cir_sts2_slice = slice(fp_sts2+self.cir_sts_slice[0],
                                fp_sts2+self.cir_sts_slice[1])
 
-        # Compute power levels, c.f. DW3000 user manual page 48
+        # Compute power levels, c.f. DW3000 user section 4.7
         C = frame.cir_analysis_ip.power
         N = frame.cir_analysis_ip.accum_count
         D = frame.toa_data.dgc_decision

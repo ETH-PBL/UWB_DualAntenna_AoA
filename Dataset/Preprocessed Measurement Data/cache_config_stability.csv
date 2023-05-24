@@ -1,0 +1,5 @@
+title;filename;description
+90deg;../Raw Measurement Logs/stability_90deg.log.gz;Distance 5.4m, no rotation (fixed 90deg AoA), approx 3000 frames, no movement in the room, LOS
+270deg;../Raw Measurement Logs/stability_270deg.log.gz;Distance 5.4m, no rotation (fixed 270deg AoA), approx 3000 frames, no movement in the room, LOS
+0deg;../Raw Measurement Logs/stability_0deg.log.gz;Distance 5.4m, no rotation (fixed 0deg AoA), approx 3000 frames, no movement in the room, LOS
+180deg;../Raw Measurement Logs/stability_180deg.log.gz;Distance 5.4m, no rotation (fixed 180deg AoA), approx 3000 frames, no movement in the room, LOS

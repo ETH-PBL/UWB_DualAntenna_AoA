@@ -1,0 +1,12 @@
+title;filename;description
+50cm;../Raw Measurement Logs/rotation_50cm.log.gz;Distance 50cm, one full turn, 5 samples per 1 degree rotation step, LOS
+100cm;../Raw Measurement Logs/rotation_100cm.log.gz;Distance 100cm, one full turn, 5 samples per 1 degree rotation step, LOS
+150cm;../Raw Measurement Logs/rotation_150cm.log.gz;Distance 150cm, one full turn, 5 samples per 1 degree rotation step, LOS
+200cm;../Raw Measurement Logs/rotation_200cm.log.gz;Distance 200cm, one full turn, 5 samples per 1 degree rotation step, LOS
+250cm;../Raw Measurement Logs/rotation_250cm.log.gz;Distance 250cm, one full turn, 5 samples per 1 degree rotation step, LOS
+300cm;../Raw Measurement Logs/rotation_300cm.log.gz;Distance 300cm, one full turn, 5 samples per 1 degree rotation step, LOS
+350cm;../Raw Measurement Logs/rotation_350cm.log.gz;Distance 350cm, one full turn, 5 samples per 1 degree rotation step, LOS
+400cm;../Raw Measurement Logs/rotation_400cm.log.gz;Distance 400cm, one full turn, 5 samples per 1 degree rotation step, LOS
+450cm;../Raw Measurement Logs/rotation_450cm.log.gz;Distance 450cm, one full turn, 5 samples per 1 degree rotation step, LOS
+500cm;../Raw Measurement Logs/rotation_500cm.log.gz;Distance 500cm, one full turn, 5 samples per 1 degree rotation step, LOS
+550cm;../Raw Measurement Logs/rotation_550cm.log.gz;Distance 550cm, one full turn, 5 samples per 1 degree rotation step, LOS
