@@ -24,22 +24,27 @@
 
 ## UWB Modules
 
+![Double Antenna Module](Figures/double_antenna_module.jpg)
+
 ## Module Assessment and Accuracy
 
 ## Dataset
 
-The recorded data is formatted as CSV in the format `TIMESTAMP,DATA_TYPE,DATA`.  
+The data contains records from more than 19000 Two Way Ranging (TWR) exchanges
+and is collected at the double antenna module. Raw data containing
+measurements from each received UWB frame as well as preprocessed data with a
+subset of fields from TWR result frames is provided.
 
 ## Error Compensation
 
 # Folder structure
-The published data is available in the `data` subfolder.
-In this folder, there exists a subfolder for each collected dataset.
-The naming scheme of these subfolders is `yyyyMMDD_HHMM_TrainNr_StartStation_NodeNr`.
-The date specified is the date of recording, whereas the time given does not necessarily correspond to the start of the recording but rather to the planned departure time of the train.
-For example, `20221020_1252_R90120_Formigine_SN1` will contain the dataset recorded on the 20th of October 2022 onboard train R90120 scheduled for departure at 12:52. The train is traveling from Formigine to Modena, and the dataset was recorded using Sensor Node 1.
 
-Each folder contains a `.csv` file containing the raw recorded data as well as a `Readme.md` containing a preliminary analysis of different metrics regarding the given data, such as runtime, GNSS availability, etc. 
+The published data is available in the `Dataset` subfolder.
+
+The firmware used for the double antenna and single antenna modules is
+available in the `Firmware` subfolder.
+
+Each folder contains a `README.md` containing more information.
 
 ## Acknowledges
 

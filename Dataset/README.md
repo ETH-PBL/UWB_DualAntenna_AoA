@@ -14,6 +14,8 @@ were performed. The single antenna module was fixed on a tripod at a height of
 1.1m. The double antenna module was mounted on a rotatable motorized platform
 at the same height, providing the ground truth AoA.
 
+![Recording Setup](../Figures/setup.jpg)
+
 ### Rotation dataset
 
 Data collected at 11 fixed distances ranging from 50cm to 5.5m in 50cm
