@@ -5,11 +5,14 @@ relevant measurement data it can be preprocessed and stored into a single HDF5
 file. This is automated by the `../Scripts/parse_and_cache.py` script,
 requiring a csv configuration file.
 
-Configuration files are provided here for rotation and stability
-datasets. Each takes all measurement runs from one dataset and combines them
-into a single HDF store. The configuration file format is CSV with one header
-line followed by one line for each measurement run. Each line contains the
-fileds:
+A [Jupyter](https://jupyter.org/) notebook is provided (`data reading
+example.ipynb`) outlining how to use the HDF5 file with the
+[Pandas](https://pandas.pydata.org/) library.
+
+Configuration files are provided for rotation and stability datasets. Each
+takes all measurement runs from one dataset and combines them into a single
+HDF store. The configuration file format is CSV with one header line followed
+by one line for each measurement run. Each line contains the fileds:
 
 | Name          | Description                                                        |
 |---------------|--------------------------------------------------------------------|
