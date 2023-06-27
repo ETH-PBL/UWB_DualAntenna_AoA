@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: Y:\Documents\dw3000-tri-hardware\DW3120_2\T_module.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_Power|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=RF|Scope=Board|Minimum=4.19
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91

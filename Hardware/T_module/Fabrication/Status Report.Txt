@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [T_module.PcbDoc]
+   Generated File[T_module.TXT]
+   Generated File[T_module-BoardEdgeRout.TXT]
+   Generated File[T_module.LDP]
+   Generated File[T_module.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 09:54:56 On 17.06.2023
