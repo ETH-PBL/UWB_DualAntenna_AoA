@@ -1,0 +1,68 @@
+Altium Designer Pick and Place Locations
+C:\Users\topolonelli\Documents\Students\dw3000-triangulation-hardware\DW3120\Project Outputs for DW3120\Pick Place for PCB1_Layout_Final(Variant of DW3120).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/04/24
+Time:       18:28
+Revision:   621dbf0b6802f71511bb81f0ffb4bdea26da42fc
+Variant:    Variant of DW3120
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Variation"
+"*1","EN_VDD3","TopLayer","Pad-0.6mm","11.7000","24.6000","0","0.6mm SMT Test Pad","Fitted"
+"*2","RXOK","TopLayer","Pad-1mm","23.9750","26.5000","0","1mm SMT Test Pad","Fitted"
+"*3","SFD_OK","TopLayer","Pad-1mm","23.0500","28.4000","0","1mm SMT Test Pad","Fitted"
+"*4","VDD3","TopLayer","Pad-0.6mm","21.1000","19.4000","0","0.6mm SMT Test Pad","Fitted"
+"*5","VDD","TopLayer","Pad-1mm","10.8257","3.8000","0","1mm SMT Test Pad","Fitted"
+"*6","AVDD","TopLayer","Pad-1mm","12.2257","8.0000","90","1mm SMT Test Pad","Fitted"
+"A1","Logo ETH Zurich","TopLayer","eth-zurich_3mm","-25.4000","-25.4000","90","","Fitted"
+"C1","GJM0335C1E2R0WB01D","TopLayer","FP-GJM033-0_03-IPC_B","9.9750","32.7000","180","Ceramic Capacitor 2pF ±0.05pF 25V C0G 0201 (0603 Metric)","Fitted"
+"C2","GJM0335C1E2R0WB01D","TopLayer","FP-GJM033-0_03-IPC_B","21.5250","32.7000","0","Ceramic Capacitor 2pF ±0.05pF 25V C0G 0201 (0603 Metric)","Fitted"
+"C3","GRM155R71C224KA12D","TopLayer","FP-GRM155-0_05-IPC_C","11.1000","27.9000","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.22uF, X7R, 15%, 10%, 16V","Fitted"
+"C4","GJM1555C1H3R3BB01D","TopLayer","FP-GJM155-0_05-IPC_C","5.1000","27.8000","0","Multi-Layer Ceramic Capacitor 3.3pF C0G  ±0.1pF 0402 Paper T/R","Fitted"
+"C5","GJM1555C1H3R3BB01D","TopLayer","FP-GJM155-0_05-IPC_C","8.0520","30.9306","0","Multi-Layer Ceramic Capacitor 3.3pF C0G  ±0.1pF 0402 Paper T/R","Fitted"
+"C6","GRM155R71E104ME14D","TopLayer","FP-GRM155-0_05-IPC_B","18.0000","24.5000","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 20%, 25V","Fitted"
+"C7","GRM155R60J106ME47D","TopLayer","FP-GRM155-0_2-0_1-IPC_C","8.2110","26.1000","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 10uF, X5R, 15%, 20%, 6.3V","Fitted"
+"C8","GRM155R71E104ME14D","TopLayer","FP-GRM155-0_05-IPC_B","8.1714","27.5000","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 20%, 25V","Fitted"
+"C9","GRM1555C1H472GE01D","TopLayer","FP-GRM155-0_15-IPC_B","8.2000","28.7000","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4700pF, C0G, 30ppm/°C, 2%, 50V","Fitted"
+"C10","GRM1555C1H472GE01D","TopLayer","FP-GRM155-0_15-IPC_B","11.5000","26.3501","270","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4700pF, C0G, 30ppm/°C, 2%, 50V","Fitted"
+"C11","GRM155R71E104ME14D","TopLayer","FP-GRM155-0_05-IPC_B","9.9000","23.6714","270","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 20%, 25V","Fitted"
+"C12","GRM1555C1H472GE01D","TopLayer","FP-GRM155-0_15-IPC_B","11.1750","29.0250","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4700pF, C0G, 30ppm/°C, 2%, 50V","Fitted"
+"C13","GRM155C80J475MEAAD","TopLayer","FP-GRM155-0_15-IPC_B","20.7000","12.6000","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4.7uF, X6S, 22%, 20%, 6.3V","Fitted"
+"C14","GRM155R60J106ME47D","TopLayer","FP-GRM155-0_2-0_1-IPC_C","19.2000","17.7000","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 10uF, X5R, 15%, 20%, 6.3V","Fitted"
+"C15","GRM155R71E104ME14D","TopLayer","FP-GRM155-0_05-IPC_B","19.2000","19.4000","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 20%, 25V","Fitted"
+"C16","GRM21BR60J107ME15L","TopLayer","FP-GRM21B-0_2-e0_2_0_7-IPC_A","4.9257","6.2000","270","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 100uF, X5R, 15%, 20%, 6.3V","Fitted"
+"C17","GRM155R60J475ME47D","TopLayer","FP-GRM155-0_1-IPC_B","7.2257","6.8000","270","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4.7uF, X5R, 15%, 20%, 6.3V","Fitted"
+"C18","GRM155R60J475ME47D","TopLayer","FP-GRM155-0_1-IPC_B","9.1257","3.8000","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4.7uF, X5R, 15%, 20%, 6.3V","Fitted"
+"C19","GRM1555C1H102JA01D","TopLayer","FP-GRM155-0_05-IPC_B","14.4257","3.8000","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 1000pF, C0G, 30ppm/°C, 5%, 50V","Fitted"
+"C20","GRM155R71E104ME14D","TopLayer","FP-GRM155-0_05-IPC_B","14.4257","5.6000","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 20%, 25V","Fitted"
+"C21","GRM155R60J475ME47D","TopLayer","FP-GRM155-0_1-IPC_B","14.4257","9.1000","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 4.7uF, X5R, 15%, 20%, 6.3V","Fitted"
+"C22","CC0402KRX7R7BB103","TopLayer","FP-CC0402-MFG","14.4257","7.3000","0","CAP CER 10000PF 16V X7R 0402","Fitted"
+"C23","GRM155R71E104ME14D","TopLayer","FP-GRM155-0_05-IPC_B","14.4257","10.7000","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 20%, 25V","Fitted"
+"CON1","Con_Pad","TopLayer","Cons_Pad","0.0000","7.8200","270","","Fitted"
+"CON2","Con_Pad","TopLayer","Cons_Pad","31.4500","7.8200","270","","Fitted"
+"CON3","Con_Pad_GND","TopLayer","PCBComponent_1","0.0000","27.9722","270","","Fitted"
+"CON4","Con_Pad_GND","TopLayer","PCBComponent_1","31.5000","27.9700","90","","Fitted"
+"CON5","Con_Pad_GND","TopLayer","PCBComponent_1","15.3700","0.0000","0","","Fitted"
+"DS1","TLMS1100-GS08","TopLayer","VISH-TLMX1100_V","19.6000","6.3000","270","LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel","Fitted"
+"DS2","TLMY1100-GS08","TopLayer","VISH-TLMX1100-2_V","22.0000","6.2500","270","Yellow LED, 20 mA, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel","Fitted"
+"FB1","MPZ0603S330HT000","TopLayer","FP-MPZ0603-IPC_B","10.1000","26.7750","0","CHIP BEADS FOR GENERAL SIGNAL LI","Fitted"
+"L1","1285AS-H-2R2M=P2","TopLayer","FP-DFE201610C-IPC_C","23.5000","17.7000","90","Shielded Wirewound Inductor 2.2uH 20% 1200mA 0.204O 0806 (2016)","Fitted"
+"L2","LQM2HPN1R0MJ0L","TopLayer","FP-LQM2HPN_J0-IPC_B","9.5257","9.9000","0","FIXED IND 1UH 1.5A 90 MOHM SMD","Fitted"
+"L3","LQG15HS3N6B02D","TopLayer","FP-LQG15HH_02-IPC_A","12.4935","6.1329","90","Multilayer type RF Inductor 3.6nH ±0.1nH 0.14O 750mA 0402","Fitted"
+"R1","CRCW0402100KFKED","TopLayer","FP-CRCW0402-e3-IPC_C","13.3000","23.6000","90","RES Thick Film, 100kO, 1%, 0.063W, 100ppm/°C, 0402","Fitted"
+"R2","CRCW0402100KFKED","TopLayer","FP-CRCW0402-e3-IPC_C","21.3978","25.4000","180","RES Thick Film, 100kO, 1%, 0.063W, 100ppm/°C, 0402","Fitted"
+"R3","","TopLayer","FP-CRCW0402-e3-IPC_C","19.6000","8.8021","90","RES Thick Film, 3.3kO, 1%, 0.063W, 100ppm/°C, 0402","Fitted"
+"R4","","TopLayer","FP-CRCW0402-e3-IPC_C","22.0000","8.8500","90","RES Thick Film, 3.3kO, 1%, 0.063W, 100ppm/°C, 0402","Fitted"
+"R5","CRCW04020000Z0ED","TopLayer","FP-CRCW0402-e3-IPC_C","4.5257","10.7000","270","RES Thick Film, 0O, 0.063W, 0402","Fitted"
+"R6","CPF0402B47K5E1","TopLayer","RESC1005X35X20LL05T10","6.3257","9.2000","180","47.5k, CPF0402B47K5E1","Fitted"
+"R8","CRCW04020000Z0ED","TopLayer","FP-CRCW0402-e3-IPC_C","14.4257","12.4000","180","RES Thick Film, 0O, 0.063W, 0402","Fitted"
+"R9","CRCW04020000Z0ED","TopLayer","FP-CRCW0402-e3-IPC_C","10.7000","12.6000","270","RES Thick Film, 0O, 0.063W, 0402","Fitted"
+"U1","DW3220","TopLayer","QFN40P500X500X40_HS-40N","15.7500","28.7000","180","Ultra-low power Wi-Fi 802.11b/g/n, without mounted antenna","Fitted"
+"U2","AH086M555003-T","TopLayer","AH086M","4.2000","40.3000","0","3.5GHz, 5.6GHz WiMax™ Chip RF Antenna 3.1GHz ~ 8GHz 2.6dBi, 0.7dBi Solder Surface Mount","Fitted"
+"U3","AH086M555003-T","TopLayer","AH086M","27.3000","40.3000","0","3.5GHz, 5.6GHz WiMax™ Chip RF Antenna 3.1GHz ~ 8GHz 2.6dBi, 0.7dBi Solder Surface Mount","Fitted"
+"U4","TPS62743YFPR","TopLayer","FP-YFP0008-C01-MFG","20.6890","14.8000","180","IC REG BUCK PROG 300MA 8DSBGA","Fitted"
+"U5","TPS62233DRYR","TopLayer","DRY0006A","9.1257","6.3850","270","Buck Step Down Regulator with 2.05 to 6 V Input and 3 V Output, -40 to 85 degC, 6-Pin SON (DRY), Green (RoHS & no Sb/Br)","Fitted"
+"Y1","8Y38472012","TopLayer","OSCSC320X250X100N","5.2000","30.3000","90","Crystal 38.4MHz ±10ppm (Stability) 10pF FUND 80Ohm 4-Pin Mini-CSMD T/R","Fitted"
