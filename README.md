@@ -26,6 +26,11 @@
 
 ![Double Antenna Module](Figures/double_antenna_module.jpg)
 
+We release two modules, 
+- T_Module (22x28 mm) optimized for production cost and dimensions
+- UWB_AoA_module  (30x45 mm) optimized for performances and R&D
+   Used for the scientific publication "Angle of arrival and centimeter distance estimation on a smart UWB sensor node"
+
 ## Module Assessment and Accuracy
 
 ## Dataset
@@ -49,6 +54,16 @@ Each folder contains a `README.md` containing more information.
 ## Acknowledges
 
 If you use **Angle of Arrival and Centimeter Distance Estimation with a miniaturized UWB Module** in an academic or industrial context, please cite the following publications:
+
+~~~~
+@article{margiani2023angle,
+  title={Angle of arrival and centimeter distance estimation on a smart UWB sensor node},
+  author={Margiani, Tobias and Cortesi, Silvano and Keller, Milena and Vogt, Christian and Polonelli, Tommaso and Magno, Michele},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2023},
+  publisher={IEEE}
+}
+~~~~
 
 ~~~~
 @inproceedings{polonelli2022performance,
