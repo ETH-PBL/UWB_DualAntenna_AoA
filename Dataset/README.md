@@ -42,3 +42,12 @@ description check the README in the respective folders.
 |-------------------------------|----------------|-----------------------|-------------------|
 | Raw Measurement Logs          | All            | Compressed text files | medium to hard    |
 | Preprocessed Measurement Data | Subset         | HDF5 Store            | low               |
+
+## ML Evaluation
+
+We release in this folder two Jupyter Notebooks with two examples used to train and evaluate a decision tree and a MLP model. Input files are 
+
+```
+Dataset/Preprocessed Measurement Data/processed_data_cache_rotation.h5
+Dataset/Preprocessed Measurement Data/cache_config_rotation.csv
+```

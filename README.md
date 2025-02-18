@@ -53,7 +53,7 @@ If you use **Angle of Arrival and Centimeter Distance Estimation with a miniatur
 
 The hardware design files are located in [Hardware](Hardware).
 
-The published data is available in the [Dataset](Dataset) subfolder.
+The published data and ML models are available in the [Dataset](Dataset) subfolder.
 
 The firmware used for the double antenna and single antenna modules is
 available in the [Firmware](Firmware) subfolder.
@@ -78,7 +78,7 @@ The firmware consists of basic applications using the Qorvo SDK on an STM32. The
 The data contains records from more than 19000 Two Way Ranging (TWR) exchanges
 and is collected at the double antenna module. Raw data containing
 measurements from each received UWB frame as well as preprocessed data with a
-subset of fields from TWR result frames is provided.
+subset of fields from TWR result frames is provided. The training script of two different lightweight ML models is also provided. 
 
 ### Scripts
 
